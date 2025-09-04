@@ -4,7 +4,7 @@ Initially, it was developed for CodeRage 2019.
 See the explanation and demonstration video on Embarcadero YouTube channel: https://www.youtube.com/watch?v=kg-rWjbKEUc
 
 # Contact
-- E-mail: stas@forji.org
+- E-mail: stas@forji.ai
 - Website: https://staspiter.com
 - Github: https://github.com/staspiter
 - Facebook: https://www.facebook.com/piterstas/
